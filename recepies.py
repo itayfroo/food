@@ -50,7 +50,7 @@ recipes={
     "Goulash": ["beef stew meat", "onion", "bell peppers", "tomatoes", "beef broth", "paprika", "caraway seeds", "garlic", "bay leaf", "salt", "pepper"],
     "Pulled Chicken Sandwiches": ["chicken breasts", "BBQ sauce", "hamburger buns", "coleslaw"],
     "Potato Soup": ["potatoes", "bacon", "onion", "celery", "carrots", "garlic", "chicken broth", "milk", "flour", "butter", "cheddar cheese", "sour cream", "chives", "salt", "pepper"],
-    "Tuna Salad": ["canned tuna", "mayonnaise", "celery", "red onion", "pickle relish", "lemon juice", "salt", "pepper"]
+    "Tuna Salad": ["canned tuna", "mayonnaise", "celery", "red onion", "pickle relish", "lemon juice", "salt", "pepper"],
 
     "Lemon Herb Roast Chicken": ["whole chicken", "lemon", "garlic", "butter", "thyme", "rosemary", "salt", "pepper", "olive oil"],
     "Beef and Broccoli Stir-Fry": ["beef sirloin", "broccoli", "soy sauce", "hoisin sauce", "sesame oil", "garlic", "ginger", "cornstarch", "rice"],
